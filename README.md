@@ -1,2 +1,2 @@
 # projects 
-# --- this is my personel portfolio beta version 
+# --- this is a comercial website i build for whom is the honor beta version 
